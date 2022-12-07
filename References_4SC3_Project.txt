@@ -2,19 +2,19 @@ datark1. (2021, June 6). Scania APS failures - A pipeline with PCA and ML. Kaggl
 November 10, 2022, from
 https://www.kaggle.com/code/datark1/scania-aps-failures-a-pipeline-with-pca-and-ml
 
-Kavish111. (2022, May 30). Handling imbalanced data with imbalance-learn in Python. Analytics Vidhya. Retrieved November 29, 2022, from https://www.analyticsvidhya.com/blog/2022/05/handling-imbalanced-data-with-imbalance-learn-in-python/ 
+Kavish111. (2022, May 30). Handling imbalanced data with imbalance-learn in Python. Analytics Vidhya. Retrieved November 29, 2022, from https://www.analyticsvidhya.com/blog/2022/05/handling-imbalanced-data-with-imbalance-learn-in-python/
 
+Meltzer, R., Rachel MeltzerRachel is a freelance content writer and copywriter who focuses on writing for career changers. She’s from the US and currently lives in North Carolina with her cat Bonnie. She loves outdoor adventures, Meltzer, R., & Rachel is a freelance content writer and copywriter who focuses on writing for career changers. She’s from the US and currently lives in North Carolina with her cat Bonnie. She loves outdoor adventures. (2021, July 15). What is Random Forest? [beginner's guide + examples]. CareerFoundry. Retrieved December 7, 2022, from https://careerfoundry.com/en/blog/data-analytics/what-is-random-forest/#:~:text=Random%20Forest%20is%20a%20powerful,problems%20in%20R%20and%20Python.
 Shetty, R. (2021, January 2). Predicting a failure in Scania’s air pressure system (APS).
 Predicting a Failure in Scania’s Air Pressure System. Retrieved November 10, 2022, from
-https://towardsdatascience.com/predicting-a-failure-in-scanias-air-pressure-system-aps-c260bcc4
-d038
+https://towardsdatascience.com/predicting-a-failure-in-scanias-air-pressure-system-aps-c260bcc4d038
 
-Sklearn.linear_model.logisticregression. scikit. (n.d.). Retrieved November 29, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html 
-
-Sklearn.ensemble.randomforestclassifier. scikit. (n.d.). Retrieved November 29, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html 
-
-Sklearn.neighbors.kneighborsclassifier. scikit. (n.d.). Retrieved November 29, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html 
-
-Sklearn.model_selection.GRIDSEARCHCV. scikit. (n.d.). Retrieved December 6, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html# 
-
-Smote#. SMOTE - Version 0.9.1. (n.d.). Retrieved December 4, 2022, from https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html 
+Sklearn.linear_model.logisticregression. scikit. (n.d.). Retrieved November 29, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+ 
+Sklearn.ensemble.randomforestclassifier. scikit. (n.d.). Retrieved November 29, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+ 
+Sklearn.neighbors.kneighborsclassifier. scikit. (n.d.). Retrieved November 29, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+ 
+Sklearn.model_selection.GRIDSEARCHCV. scikit. (n.d.). Retrieved December 6, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#
+ 
+Smote#. SMOTE - Version 0.9.1. (n.d.). Retrieved December 4, 2022, from https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html
